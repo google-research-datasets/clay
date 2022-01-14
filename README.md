@@ -3,7 +3,7 @@
 Please cite our paper if you use the dataset:
 
 ```
-@INCOLLECTION{clay,
+@InProceedings{clay,
   title     = "Learning to Denoise Raw Mobile UI Layouts for Improving Datasets at Scale",
   booktitle = "Proceedings of the 2022 {CHI} Conference on Human Factors in
                Computing Systems",
@@ -12,7 +12,8 @@ Please cite our paper if you use the dataset:
   pages     = "1--13",
   month     =  may,
   year      =  2022,
-  address   = "New Orleans, LA, USA"
+  address   = "New Orleans, LA, USA",
+  url = {https://doi.org/10.1145/3491102.3502042}
 }
 ```
 
